@@ -37,4 +37,4 @@ for n in range(iteraciones):
     suma += termino
 
 pi_aproximado = 4 * suma
-print(f"Aproximación de pi con {iteraciones} términos: {pi_aproximado}")
+print(f"Aproximación de pi con el metodo de la serie de Leibniz {iteraciones} términos: {pi_aproximado}")
